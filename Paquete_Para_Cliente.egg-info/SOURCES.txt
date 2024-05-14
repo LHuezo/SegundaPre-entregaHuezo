@@ -1,0 +1,8 @@
+setup.py
+Paquete_Para_Cliente/PrimeraPre-entregaHuezo.py
+Paquete_Para_Cliente/__init__.py
+Paquete_Para_Cliente/funct_cliente.py
+Paquete_Para_Cliente.egg-info/PKG-INFO
+Paquete_Para_Cliente.egg-info/SOURCES.txt
+Paquete_Para_Cliente.egg-info/dependency_links.txt
+Paquete_Para_Cliente.egg-info/top_level.txt
